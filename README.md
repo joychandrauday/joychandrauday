@@ -1,7 +1,8 @@
 <img src="https://i.ibb.co/pKtwsbY/Black-and-White-Simple-Minimalist-Futuristic-Gaming-You-Tube-Banner.png" alt="banner-img">
+
 ## Hi there, I'm Joy Chandra Uday! 👋
 
-###A Bit About Me
+### A Bit About Me
 I'm a passionate MERN Stack developer from Bangladesh. I have some solid entry level skill on React,Tailwind css,express js etc. and i love playing with them. I enjoy working on challenging projects and constantly learning new technologies. Here’s a bit more about me:
 
 - 🌱 Currently learning: Advanced JavaScript  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="20"/> , Next.js <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="20"/>
