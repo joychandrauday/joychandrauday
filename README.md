@@ -1,4 +1,4 @@
-<img src="https://example.com/path/to/your/banner/image.jpg](https://i.ibb.co/pKtwsbY/Black-and-White-Simple-Minimalist-Futuristic-Gaming-You-Tube-Banner.png">
+<img src="https://i.ibb.co/pKtwsbY/Black-and-White-Simple-Minimalist-Futuristic-Gaming-You-Tube-Banner.png" alt="banner-img">
 ## Hi there, I'm Joy Chandra Uday! 👋
 
 ###A Bit About Me
