@@ -1,16 +1,4 @@
-<!-- <img src="https://i.ibb.co/pKtwsbY/Black-and-White-Simple-Minimalist-Futuristic-Gaming-You-Tube-Banner.png" alt="banner-img"> -->
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; background: #0f172a;">
-  <div style="width: 350px; height: 200px; background: linear-gradient(135deg, #2d3748, #1e293b); color: white; padding: 20px; border-radius: 8px; text-align: left; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out; cursor: pointer; position: relative; overflow: hidden;"
-       onmouseover="this.style.transform='scale(1.01)'; this.querySelector('.card-title').style.opacity='1';"
-       onmouseout="this.style.transform='scale(1)'; this.querySelector('.card-title').style.opacity='0'; this.style.boxShadow='none';">
-    <!-- Logo -->
-    <img src="https://res.cloudinary.com/dklikxmpm/image/upload/v1740075017/favicon_s8qpvq.png" alt="Logo" style="position: absolute; top: 15px; right: 20px; width: 40px; height: 40px;">
-    <div style="position: absolute; bottom: 20px; left: 20px;">
-      <p style="font-size: 18px; font-weight: bold; margin:2px 0;">JOY CHANDRA UDAY</p>
-      <p style="font-size: 12px; margin: 0;">ALL RIGHT RESERVED</p>
-    </div>
-  </div>
-</div>
+<img src="https://res.cloudinary.com/dklikxmpm/image/upload/v1740077702/gitcard_wcfxdy.png" alt="banner-img">
 
 ## Hi there, I'm Joy Chandra Uday! 👋
 
