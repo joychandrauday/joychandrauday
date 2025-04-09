@@ -6,10 +6,10 @@
 I'm a passionate MERN Stack Developer from Bangladesh with solid experience in **React**, **Tailwind CSS**, **Express.js**, and more. I enjoy building modern, responsive web applications and constantly push myself to explore and master new technologies.
 
 - 🌱 **Currently learning:**  
-  Flutter <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="20" /> & Dart <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="20"/>
+<img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="20" /> & <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="20"/>
 
 - 🚀 **Recently mastered:**  
-  Next.js <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="20"/>, Redux, TypeScript <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="20"/>, Mongoose
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="20"/>, <img src="https://img.shields.io/badge/-redux-000000?style=for-the-badge&logo=redux&logoColor=white" height="20"/>,<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="20"/>, <img src="https://img.shields.io/badge/-Mongoose-000000?style=for-the-badge&logo=Mongoose&logoColor=white" height="20"/>
 
 - 💼 **Open to work:** Yes, I’m actively seeking exciting frontend opportunities.
 - ⚡ **Fun fact:** I’m a big fan of chess and strategic thinking!
