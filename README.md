@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/next_js-000000?style=for-the-badge&logo=next.js" />
       </div>
-      <p style="font-size: 1em; font-style: italic; color: #ddd;">"Building the future, one line of code at a time."</p>
+      <p style="font-size: 1em; font-style: italic; color: #ddd;">"Transforming your Ideas into Reality through Code."</p>
     </div>
   </div>
 </div>
@@ -25,14 +25,14 @@
 I’m a **MERN Stack Developer** with a strong focus on **React**, **Express**, and building responsive full-stack web applications. I love transforming ideas into reality using the power of code!
 
 - 🌱 **Currently Learning:**  
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" /> & 
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" /> & 
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="30"/>
 
 - 🚀 **Recently Mastered:**  
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="20"/>, 
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="20"/>, 
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="20"/>, 
-  <img src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="30"/>, 
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="30"/>, 
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="30"/>, 
+  <img src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="30"/>
 
 - 💼 **Open to Work:** Yes!
 - ♟ **Fun Fact:** I love playing chess and solving logic puzzles.
