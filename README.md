@@ -3,13 +3,13 @@
   <div style="background: url('https://i.ibb.co/d6RQ9CM/bg-blur.jpg') center/cover no-repeat; padding: 60px 20px; border-radius: 20px; backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); position: relative; box-shadow: 0 0 40px rgba(0,0,0,0.3);">
     <div style="background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255,255,255,0.2); border-radius: 16px; padding: 30px; max-width: 800px; margin: auto; color: #fff; font-family: 'Segoe UI', sans-serif; box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );">
       <h1 style="font-size: 3em; margin-bottom: 10px;">👋 Hi, I'm <span style="color:#ffd700;">Joy Chandra Uday</span></h1>
-      <p style="font-size: 1.2em;">🚀 Junior MERN Stack Developer | Passionate about clean code & modern UI</p>
+      <p style="font-size: 1.2em;">🚀 Junior Full-Stack Developer | Passionate about clean code & modern UI</p>
       <div style="margin: 25px 0;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/next_js-000000?style=for-the-badge&logo=next.js" />
       </div>
       <p style="font-size: 1em; font-style: italic; color: #ddd;">"Building the future, one line of code at a time."</p>
     </div>
@@ -25,8 +25,8 @@
 I’m a **MERN Stack Developer** with a strong focus on **React**, **Express**, and building responsive full-stack web applications. I love transforming ideas into reality using the power of code!
 
 - 🌱 **Currently Learning:**  
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="20" /> & 
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="40" /> & 
+  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="40"/>
 
 - 🚀 **Recently Mastered:**  
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="20"/>, 
