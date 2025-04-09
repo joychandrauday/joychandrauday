@@ -80,7 +80,7 @@ I’m a **MERN Stack Developer** with a strong focus on **React**, **Express**, 
   <a href="mailto:joychandraud@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
-  <a href="https://joychandrauday.web.app/" target="_blank">
+  <a href="https://joychandrauday-nexus.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-4ade80?style=for-the-badge&logo=web&logoColor=white" height="30" />
   </a>
 </p>
