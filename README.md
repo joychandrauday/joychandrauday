@@ -1,21 +1,25 @@
 <!-- 👇 Start of Fancy Banner -->
 <div align="center">
-  <div style="background: url('https://i.ibb.co/d6RQ9CM/bg-blur.jpg') center/cover no-repeat; padding: 60px 20px; border-radius: 20px; backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); position: relative; box-shadow: 0 0 40px rgba(0,0,0,0.3);">
-    <div style="background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255,255,255,0.2); border-radius: 16px; padding: 30px; max-width: 800px; margin: auto; color: #fff; font-family: 'Segoe UI', sans-serif; box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );">
-      <h1 style="font-size: 3em; margin-bottom: 10px;">👋 Hi, I'm <span style="color:#ffd700;">Joy Chandra Uday</span></h1>
-      <p style="font-size: 1.2em;">🚀 Junior Full-Stack Developer | Passionate about clean code & modern UI</p>
-      <div style="margin: 25px 0;">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/next_js-000000?style=for-the-badge&logo=next.js" />
-      </div>
-      <p style="font-size: 1em; font-style: italic; color: #ddd;">"Transforming your Ideas into Reality through Code."</p>
+  <div style="max-width: 850px; margin: auto; padding: 35px 25px; border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d; box-shadow: 0 0 30px rgba(0, 255, 255, 0.2); color: #c9d1d9; font-family: 'Segoe UI', sans-serif; position: relative;">
+    <h1 style="font-size: 2.8em; margin-bottom: 10px; color: #ffd700; text-shadow: 0 0 8px #ffd700, 0 0 12px #ff8c00;">👋 Hi, I'm Joy Chandra Uday</h1>
+    <p style="font-size: 1.2em; color: #58a6ff; text-shadow: 0 0 6px rgba(88,166,255,0.5); animation: pulse 2s infinite;">
+      🚀 Junior Full-Stack Developer | Passionate about clean code & modern UI
+    </p>
+
+    <div style="margin: 30px 0;">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
     </div>
+
+    <p style="font-size: 1em; font-style: italic; color: #8b949e; text-shadow: 0 0 5px rgba(139,148,158,0.5);">
+      "Transforming your Ideas into Reality through Code."
+    </p>
   </div>
 </div>
-<!-- 👆 End of Fancy Banner -->
+
 
 
 ---
