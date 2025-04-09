@@ -1,4 +1,3 @@
-<!-- 👇 Start of Fancy Banner -->
 <div align="center">
   <div style="max-width: 850px; margin: auto; padding: 35px 25px; border-radius: 16px; background: linear-gradient(145deg, #0d1117, #161b22); border: 1px solid #30363d; box-shadow: 0 0 30px rgba(0, 255, 255, 0.2); color: #c9d1d9; font-family: 'Segoe UI', sans-serif; position: relative;">
     <h1 style="font-size: 2.8em; margin-bottom: 10px; color: #ffd700; text-shadow: 0 0 8px #ffd700, 0 0 12px #ff8c00;">👋 Hi, I'm Joy Chandra Uday</h1>
