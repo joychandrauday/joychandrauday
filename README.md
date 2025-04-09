@@ -21,7 +21,11 @@
 
 ## 🧑‍💻 About Me
 
-I’m a **MERN Stack Developer** with a strong focus on **React**, **Express**, and building responsive full-stack web applications. I love transforming ideas into reality using the power of code!
+Hi, I’m Joy Chandra Uday, a passionate Web Developer who loves turning ideas into powerful, real-world web applications. With a strong foundation in Next.js,React.js, Redux, Node.js, Express.js, and MongoDB, I specialize in building full-stack, scalable, and user-friendly web solutions.
+💡 I'm always eager to learn, explore new technologies, and solve real-world problems with clean code and elegant UI/UX. Whether it's developing modern dashboards, e-commerce platforms, or educational tools — I enjoy bringing innovative projects to life.
+
+🚀 Let’s connect if you’re looking for a dedicated developer to collaborate on exciting projects or if you just love talking tech!
+
 
 - 🌱 **Currently Learning:**  
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" /> & 
