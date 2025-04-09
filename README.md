@@ -1,9 +1,22 @@
-<!-- Banner Start -->
-<div style="width: 100%; background: linear-gradient(135deg, #0f172a, #1e293b); color: white; padding: 40px 20px; border-radius: 12px; text-align: center; margin-bottom: 30px; box-shadow: 0 0 20px rgba(0,0,0,0.3);">
-  <h1 style="font-size: 3em; font-weight: bold; margin: 0;">👋 Hello, I'm <span style="color: #38bdf8;">Joy Chandra Uday</span></h1>
-  <p style="font-size: 1.2em; margin-top: 10px; font-weight: 500;">A Passionate <span style="color: #22d3ee;">MERN Stack Developer</span> from Bangladesh</p>
+<!-- 👇 Start of Fancy Banner -->
+<div align="center">
+  <div style="background: url('https://i.ibb.co/d6RQ9CM/bg-blur.jpg') center/cover no-repeat; padding: 60px 20px; border-radius: 20px; backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); position: relative; box-shadow: 0 0 40px rgba(0,0,0,0.3);">
+    <div style="background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255,255,255,0.2); border-radius: 16px; padding: 30px; max-width: 800px; margin: auto; color: #fff; font-family: 'Segoe UI', sans-serif; box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );">
+      <h1 style="font-size: 3em; margin-bottom: 10px;">👋 Hi, I'm <span style="color:#ffd700;">Joy Chandra Uday</span></h1>
+      <p style="font-size: 1.2em;">🚀 Junior MERN Stack Developer | Passionate about clean code & modern UI</p>
+      <div style="margin: 25px 0;">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      </div>
+      <p style="font-size: 1em; font-style: italic; color: #ddd;">"Building the future, one line of code at a time."</p>
+    </div>
+  </div>
 </div>
-<!-- Banner End -->
+<!-- 👆 End of Fancy Banner -->
+
 
 ---
 
