@@ -1,4 +1,9 @@
-<img src="https://res.cloudinary.com/dklikxmpm/image/upload/v1740077702/gitcard_wcfxdy.png" alt="banner-img">
+<!-- Banner Start -->
+<div style="background: linear-gradient(to right, #1f2937, #4b5563); padding: 30px; text-align: center; border-radius: 12px; margin-bottom: 30px; color: white;">
+  <h1 style="font-size: 2.5em; margin: 0;">🚀 Welcome to My World!</h1>
+  <p style="font-size: 1.2em; margin-top: 10px;">I’m Joy Chandra Uday — A passionate MERN Stack Developer</p>
+</div>
+<!-- Banner End -->
 
 ## Hi there, I'm Joy Chandra Uday! 👋
 
@@ -39,7 +44,7 @@ I'm a passionate MERN Stack Developer from Bangladesh with solid experience in *
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joychandrauday&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joychandrauday&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joychandrauday&layout=compact&theme=radical)
 
 ---
@@ -51,4 +56,3 @@ I'm a passionate MERN Stack Developer from Bangladesh with solid experience in *
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joychandraud@gmail.com)
 
 ---
-
