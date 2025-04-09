@@ -4,7 +4,6 @@
     <p style="font-size: 1.2em; color: #58a6ff; text-shadow: 0 0 6px rgba(88,166,255,0.5); animation: pulse 2s infinite;">
       🚀 Junior Full-Stack Developer | Passionate about clean code & modern UI
     </p>
-
     <div style="margin: 30px 0;">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -12,7 +11,6 @@
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
     </div>
-
     <p style="font-size: 1em; font-style: italic; color: #8b949e; text-shadow: 0 0 5px rgba(139,148,158,0.5);">
       "Transforming your Ideas into Reality through Code."
     </p>
