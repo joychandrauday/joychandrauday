@@ -10,7 +10,8 @@
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    </div>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
     <p style="font-size: 1em; font-style: italic; color: #8b949e; text-shadow: 0 0 5px rgba(139,148,158,0.5);">
       "Transforming your Ideas into Reality through Code."
     </p>
@@ -28,8 +29,9 @@ Hi, I’m Joy Chandra Uday, a passionate Web Developer who loves turning ideas i
 
 
 - 🌱 **Currently Learning:**  
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30" /> & 
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="30"/>
+ <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" /> & 
+<img src="https://img.shields.io/badge/-DSA-FFA500?style=for-the-badge&logo=codeforces&logoColor=white" height="30"/>
+
 
 - 🚀 **Recently Mastered:**  
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="30"/>, 
@@ -68,6 +70,16 @@ Hi, I’m Joy Chandra Uday, a passionate Web Developer who loves turning ideas i
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joychandrauday&theme=radical" alt="GitHub Streak" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joychandrauday&layout=compact&theme=radical" alt="Top Languages" />
+  <iframe
+    title="Spotify Embed: Recommendation Playlist "
+    src={`https://open.spotify.com/embed/playlist/5r37wWTBtwEaVX1YAI4Y7B?utm_source=generator&theme=0`}
+    width="100%"
+    height="100%"
+    style={{ minHeight: '360px' }}
+    frameBorder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy"
+  />
 </p>
 
 ---
