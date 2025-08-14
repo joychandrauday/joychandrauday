@@ -1,8 +1,7 @@
-<!-- Profile Header -->
-<div align="center">
-  
 # 🌌 Joy Chandra Uday
 **🚀 Junior Full-Stack Developer | Building Ideas into Reality**  
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joychandrauday)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/joychandrauday)
@@ -44,6 +43,16 @@ I thrive on creating **scalable, user-friendly web apps** and love solving real-
 
 ---
 
+## 🌱 Currently Learning
+<div align="center">
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Data Structures & Algorithms](https://img.shields.io/badge/-DSA-FF5733?style=for-the-badge&logo=codeforces&logoColor=white)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats & Activity
 <div align="center">
 
@@ -58,7 +67,6 @@ I thrive on creating **scalable, user-friendly web apps** and love solving real-
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q4l632w2x6hthlv5p2zjkmki7e&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31q4l632w2x6hthlv5p2zjkmki7e&redirect=true)
-
 
 </div>
 
