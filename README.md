@@ -66,7 +66,8 @@ I thrive on creating **scalable, user-friendly web apps** and love solving real-
 ## 🎧 Now Playing on Spotify
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q4l632w2x6hthlv5p2zjkmki7e&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31q4l632w2x6hthlv5p2zjkmki7e&redirect=true)
+![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)  
+*Currently unavailable, check back later or visit my [Spotify Profile](https://open.spotify.com/user/31q4l632w2x6hthlv5p2zjkmki7e)!*
 
 </div>
 
