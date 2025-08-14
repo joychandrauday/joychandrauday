@@ -57,7 +57,7 @@ I thrive on creating **scalable, user-friendly web apps** and love solving real-
 ## 🎧 Now Playing on Spotify
 <div align="center">
 
-[![Spotify](https://novatorem-yourusername.vercel.app/api/spotify)](https://open.spotify.com/playlist/5r37wWTBtwEaVX1YAI4Y7B)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31q4l632w2x6hthlv5p2zjkmki7e&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31q4l632w2x6hthlv5p2zjkmki7e&redirect=true)
 
 
 </div>
