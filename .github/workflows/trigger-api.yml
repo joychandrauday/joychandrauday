@@ -15,7 +15,7 @@ jobs:
           echo "🚀 Trigger started at $(date)"
           
           echo "📡 Calling API..."
-          response=$(curl --fail -s https://api-anycomp.vercel.app/)
+          response=$(curl --fail -s https://api-anycomp.vercel.app/health)
           
           echo "✅ API call successful!"
           echo "📦 Response:"
