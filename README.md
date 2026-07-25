@@ -30,6 +30,16 @@ I enjoy learning how databases work internally, how networks communicate, how se
 
 ---
 
+## 🔧 Peek
+
+A small tool I built to help fellow developers. Check it out 👇
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joychandrauday/peek)
+
+If you find it useful, consider giving it a ⭐ and sharing it with others!
+
+---
+
 ## 🛠️ Skills
 
 ### Languages
