@@ -18,7 +18,7 @@ I'm a software engineer from Bangladesh with a passion for building scalable app
 
 - 🔭 I'm currently focused on **Backend Engineering** and **System Design**
 - 🌱 I'm learning **PostgreSQL**, **Docker**, **Redis**, and **AWS**
-- 👨‍💻 Portfolio → [joychandrauday-nexus.vercel.app](https://joychandrauday-nexus.vercel.app/)
+- 👨‍💻 Portfolio → [joychandrauday.vercel.app](https://joychandrauday.vercel.app/)
 - ⚙️ I use daily: `.js` `.ts` `.sql` `.prisma` `.git`
 - 🥅 Goals: Master **System Design**, **Distributed Systems**, and **Cloud Infrastructure**
 - 💬 Ask me about **Backend Development**, **System Design**, or **Computer Science**
@@ -132,7 +132,7 @@ If you find it useful, consider giving it a ⭐ and sharing it with others!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joychandrauday)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/joychandrauday)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joychandraud@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joychandrauday-nexus.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joychandrauday.vercel.app/)
 
 ---
 
